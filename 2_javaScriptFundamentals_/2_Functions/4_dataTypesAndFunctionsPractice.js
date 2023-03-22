@@ -1,0 +1,16 @@
+/**
+ * Write a function goodbye(name) that takes in a string name and returns a string saynig "bye" to that name
+ * 
+ */
+
+
+
+function goodbye(name) {
+    // your code here...
+    return "Bye " + name + ".";
+  }
+  
+  console.log(goodbye("Daniel")); // => "Bye Daniel."
+  console.log(goodbye("Mark")); // => "Bye Mark."
+  console.log(goodbye("Beyonce")); // => "Bye Beyonce."
+
